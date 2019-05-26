@@ -2,6 +2,7 @@
 Bachelor's thesis - FEE CTU.
 
 Text of the submited thesis can be found in the git submodule `text` and the implemented load balancer in the module `implementation`.
+The final thesis PDF file is also located in the root of this git `thesis.pdf`.
 
 ## Abstract
 Large-scale optimization problems are non-trivial to solve 
