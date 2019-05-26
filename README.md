@@ -1,5 +1,7 @@
 # Design and implementation of a scalable server for parallelization of optimization algorithms execution
-Bachelor's thesis - FEE CTU
+Bachelor's thesis - FEE CTU.
+
+Text of the submited thesis can be found in the git submodule `text` and the implemented load balancer in the module `implementation`.
 
 ## Abstract
 Large-scale optimization problems are non-trivial to solve 
