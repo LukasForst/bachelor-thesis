@@ -1,0 +1,6 @@
+[submodule "Implementation"]
+	path = Implementation
+	url = git@github.com:LukasForst/BP-code.git
+[submodule "Text"]
+	path = Text
+	url = git@github.com:LukasForst/BP-text.git
