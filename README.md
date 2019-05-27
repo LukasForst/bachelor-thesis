@@ -71,8 +71,8 @@ since the typical usage of such application lays mainly in data visualization,
 hence the performance, required only when the optimization engine is running, is unused.
 
 Using such software architecture seems to be highly inefficient,
-since the instances, that are in time $t$ running the optimization algorithm, are overwhelmed 
-and at the same time $t$,
+since the instances, that are in time **t** running the optimization algorithm, are overwhelmed 
+and at the same time **t**,
 the applications, that are not running the optimization tasks,
 do not use their powerful computer resources at all.
 
